@@ -1,1 +1,1 @@
-# scrapping_amazon
+# scrapping_panini
